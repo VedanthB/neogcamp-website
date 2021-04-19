@@ -7,4 +7,4 @@
  
  live link : https://vedanthbora.netlify.app
  
- 
+- hosted on netlify  
